@@ -1,0 +1,36 @@
+.details-container {
+    padding: 20px;
+  }
+  
+  .details-container img {
+    width: 300px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .details-container p {
+    margin: 10px 0;
+  }
+  
+  .details-container button {
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  .details-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  .details-container button:last-child {
+    background-color: #6c757d;
+  }
+  
+  .details-container button:last-child:hover {
+    background-color: #5a6268;
+  }
+  

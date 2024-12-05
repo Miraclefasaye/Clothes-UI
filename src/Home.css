@@ -1,0 +1,27 @@
+.product-grid {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+  }
+  
+  .product-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    width: 150px;
+    text-align: center;
+  }
+  
+  .product-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .product-card a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .product-card a:hover {
+    text-decoration: underline;
+  }
+  
