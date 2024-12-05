@@ -75,7 +75,7 @@ const products = [
     image: "/images/product10.jpg",
   },
 ];
-
+ 
 function Home() {
   return (
     <div>
